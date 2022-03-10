@@ -12,10 +12,10 @@ var _app = function () {
         "craze#0002 - 811216525322616902", 
         "ben are you gay ", 
         "damn that esex last night was crazy ", 
-        "where would one acquire money ",
-        "no homo   ",
-        "if you would like to donate 5$ to me that would be nice  ",
-        "% craze " ,
+        "discord is my life discord is my home ",
+        "she said she was off but she was in a vc on discord with my homie..   ",
+        "ok cool website nice thanks  ",
+        "craze#0002 - 811216525322616902" ,
     ];
 
 

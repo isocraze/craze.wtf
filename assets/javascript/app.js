@@ -9,13 +9,13 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "trickster#6222 - 842568983525457940", 
-        "brickbattling since 2019 ", 
-        "all part of the plan ", 
-        "trickster's basement winning ",
-        "destroying the competition ",
-        "♫ Mobb Deep - Survival Of The Fittiest",
-        "$ trickster " ,
+        "craze#0002 - 811216525322616902", 
+        "ben are you gay ", 
+        "fuck esex man its not worth it ", 
+        "ben is not gay ",
+        "give me 5$ pls ",
+        "give me 10$ pls",
+        "% craze " ,
     ];
 
 

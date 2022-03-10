@@ -11,10 +11,10 @@ var _app = function () {
     this.brandDescription = [
         "craze#0002 - 811216525322616902", 
         "ben are you gay ", 
-        "fuck esex man its not worth it ", 
-        "ben is not gay ",
-        "give me 5$ pls ",
-        "give me 10$ pls",
+        "damn that esex last night was crazy ", 
+        "where would one acquire money ",
+        "no homo   ",
+        "if you would like to donate 5$ to me that would be nice  ",
         "% craze " ,
     ];
 

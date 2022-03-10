@@ -15,26 +15,19 @@
 
 
 		    {
-                name: 'youtube',
-                link: 'https://www.youtube.com/tricksterwashere'
+                name: 'steam',
+                link: 'https://steamcommunity.com/profiles/76561199136477319/'
             },
 
 		    {
-                name: 'roblox',
-                link: 'https://www.roblox.com/users/307802151/profile'
-            },
-
-            {
                 name: 'discord',
-                link: 'https://discord.gg/W3CtjEn5'
+                link: 'https://discord.com/users/811216525322616902/'
             },
 
             {
-                name: 'rappad',
-                link: 'https://rappad.co/trickster'
+                name: 'v3rm',
+                link: 'https://v3rmillion.net/member.php?action=profile&uid=1429565'
             },
-            
-            
         ];
 
         for (var i in links) {

@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "$ trickster.pw", "$ trickster.p", "$ trickster.", "$ trickster", "$ trickste", "$ trickst", "$ tricks", "$ trick", "$ tric", "$ tri", "$ tric", "$ trick", "$ tricks", "$ trickst", "$ trickste", "$ trickster", "$ trickster.", "$ trickster.p", "$ trickster.pw"];
+var titleText = [ "% craze.wtf", "% craze.wt", "% craze.w", "% craze", "% craz", "% cra", "% cr", "% c", "% cr", "% cra", "% craz", "% craze", "% craze.w", "% craze.wt", "% craze.wtf"];
 
 function loop(){
 

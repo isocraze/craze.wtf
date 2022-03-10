@@ -140,7 +140,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
-            writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>trickster.pw</span>..."], 30, function () {
+            writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>craze.wtf</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
@@ -156,7 +156,7 @@
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #FFFF00'>welcome back commander</i>"], 30, 500, function () {
+                    writeLine(["<i style='color: #FFFF00'>welcome back</i>"], 30, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 

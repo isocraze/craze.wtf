@@ -10,10 +10,10 @@ var _app = function () {
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
         "craze#0002 - 811216525322616902", 
-        "ben are you gay ", 
-        "damn that esex last night was crazy ", 
-        "discord is my life discord is my home ",
-        "she said she was off but she was in a vc on discord with my homie..   ",
+        "i love god ", 
+        "act broke to stay rich ", 
+        "ay fuck that bitch kira man she cheated on me ",
+        "she was ugly anyways   ",
         "ok cool website nice thanks  ",
         "craze#0002 - 811216525322616902" ,
     ];

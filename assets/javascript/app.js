@@ -12,9 +12,10 @@ var _app = function () {
         "craze#0002 - 811216525322616902", 
         "i love god ", 
         "act broke to stay rich ", 
-        "ay fuck that bitch kira man she cheated on me ",
-        "she was ugly anyways   ",
-        "ok cool website nice thanks  ",
+        "valorant lover ",
+        "200$ on valorant btw   ",
+        "biggest money lover  ",
+        "you just got beamed shouldve used a mm  ",
         "craze#0002 - 811216525322616902" ,
     ];
 

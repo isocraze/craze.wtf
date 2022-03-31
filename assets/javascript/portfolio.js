@@ -25,7 +25,7 @@
             },
 
                     {
-                name: 'v3rm',
+                name: 'v3rmillion',
                 link: 'https://v3rmillion.net/member.php?action=profile&uid=1429565'
             },
 

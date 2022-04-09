@@ -9,14 +9,14 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "craze#0002 - 811216525322616902", 
+        "craze#0001 - 811216525322616902", 
         "i love god ", 
         "act broke to stay rich ", 
         "valorant lover ",
-        "200$ on valorant btw   ",
-        "biggest money lover  ",
-        "you just got beamed shouldve used a mm  ",
-        "craze#0002 - 811216525322616902" ,
+        "average discord mod   ",
+        "money flexer  ",
+        "cringe  ",
+        "craze#0001 - 811216525322616902" ,
     ];
 
 

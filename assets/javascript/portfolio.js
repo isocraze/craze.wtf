@@ -144,7 +144,7 @@
     };
 
     (function () {
-        $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
+        $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=3716d62af985419cba51f4019a5b5233', function (data) { 
 
             writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>craze.wtf</span>..."], 30, function () {
 
@@ -155,7 +155,7 @@
 
                 var usernames = ["user", "dude"];
 
-                writeLine(["Connection Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading System...."], 30, 501, function () {
+                writeLine(["Connection Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
 
                     if (app.skippedIntro)
                         return;

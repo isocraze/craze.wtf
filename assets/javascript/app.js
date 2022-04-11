@@ -15,7 +15,7 @@ var _app = function () {
         "valorant lover ",
         "average discord mod   ",
         "money flexer  ",
-        "cringe  ",
+        "dogs or cats  ",
         "craze#0001 - 811216525322616902" ,
     ];
 

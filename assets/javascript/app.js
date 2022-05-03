@@ -10,12 +10,8 @@ var _app = function () {
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
         "craze#0001 - 811216525322616902", 
-        "i love god ", 
-        "act broke to stay rich ", 
-        "valorant lover ",
-        "average discord mod   ",
-        "money flexer  ",
-        "dogs or cats  ",
+        "act broke to stay rich", 
+        "♪ Knucks - Home ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];
 

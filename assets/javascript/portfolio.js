@@ -110,7 +110,7 @@
 
     $('html').on('contextmenu', function (event) {
         var img = document.createElement("img");
-        img.src = "assets/icons/favicon.ico";
+        img.src = "assets/others/favicon.ico";
         img.width = 16;
         img.height = 16;
         img.alt = "No";

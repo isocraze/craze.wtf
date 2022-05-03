@@ -25,13 +25,22 @@
             },
 
                     {
-                name: 'v3rmillion',
+                name: 'v3rm',
                 link: 'https://v3rmillion.net/member.php?action=profile&uid=1429565'
             },
 
 		    {
                 name: 'roblox',
                 link: 'https://www.roblox.com/users/2742053608/profile'
+            },
+
+		    {
+                name: 'youtube',
+                link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'
+            },
+		    {
+                name: 'discord server',
+                link: 'https://discord.gg/g7bNB6FQMF'
             },
 
         ];

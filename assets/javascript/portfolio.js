@@ -23,28 +23,29 @@
                 name: 'discord',
                 link: 'https://discord.com/users/811216525322616902/'
             },
-
+		    {
+                name: 'discord server',
+                link: 'https://discord.gg/g7bNB6FQMF'
+            },
                     {
-                name: 'v3rm',
+                name: 'v3rmillion',
                 link: 'https://v3rmillion.net/member.php?action=profile&uid=1429565'
             },
-
 		    {
-                name: 'roblox',
-                link: 'https://www.roblox.com/users/2742053608/profile'
-            },
-
+                name: 'ogusers',
+                link: 'https://ogu.gg/iSoCraze'
+            },	   
+		
 		    {
                 name: 'youtube',
                 link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'
             },
 		    {
-                name: 'discord server',
-                link: 'https://discord.gg/g7bNB6FQMF'
+                name: 'roblox',
+                link: 'https://www.roblox.com/users/1057062/profile'
+			   
             },
-
-        ];
-
+        ]; 
         for (var i in links) {
             var link = links[i];
 
@@ -110,7 +111,7 @@
 
     $('html').on('contextmenu', function (event) {
         var img = document.createElement("img");
-        img.src = "assets/icons/favicon.ico";
+        img.src = "assets/others/favicon.ico";
         img.width = 16;
         img.height = 16;
         img.alt = "No";
@@ -155,7 +156,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
-            writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>craze.wtf</span>..."], 30, function () {
+            writeLine(["Starting... Intializing.", "Trying to connect to <span style='font-size: 14px; color: #7F00FF;'>[craze.wtf]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
@@ -164,14 +165,14 @@
 
                 var usernames = ["user", "dude"];
 
-                writeLine(["Connection Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
+                writeLine(["Authentication Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
 
                     if (app.skippedIntro)
                         return;
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #FFFF00'>welcome back</i>"], 30, 500, function () {
+                    writeLine(["<i style='color: #FFFF00'>glad to have you back</i>"], 30, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 

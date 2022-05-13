@@ -110,7 +110,7 @@
 
     $('html').on('contextmenu', function (event) {
         var img = document.createElement("img");
-        img.src = "assets/others/favicon.ico";
+        img.src = "assets/icons/favicon.ico";
         img.width = 16;
         img.height = 16;
         img.alt = "No";
@@ -155,7 +155,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=3716d62af985419cba51f4019a5b5233', function (data) { 
 
-            writeLine(["Starting... Intializing.", "Trying to connect to <span style='font-size: 14px; color: #7F00FF;'>[craze.wtf]</span>..."], 30, function () {
+            writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>craze.wtf</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
@@ -164,14 +164,14 @@
 
                 var usernames = ["user", "dude"];
 
-                writeLine(["Authentication Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
+                writeLine(["Connection Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
 
                     if (app.skippedIntro)
                         return;
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #FFFF00'>glad to have you back</i>"], 30, 500, function () {
+                    writeLine(["<i style='color: #FFFF00'>welcome back</i>"], 30, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 

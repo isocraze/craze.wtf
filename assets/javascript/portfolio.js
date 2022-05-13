@@ -12,8 +12,7 @@
 
     $(document).ready(function () {
         var links = [
-
-
+		
 		    {
                 name: 'steam',
                 link: 'https://steamcommunity.com/profiles/76561199136477319/'

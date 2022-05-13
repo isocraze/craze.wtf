@@ -153,7 +153,7 @@
     };
 
     (function () {
-        $.getJSON('google.com', function (data) { 
+        $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
             writeLine(["Starting... Intializing.", "connecting to <span style='font-size: 14px; color: #7F00FF;'>craze.wtf</span>..."], 30, function () {
 

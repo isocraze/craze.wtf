@@ -23,30 +23,28 @@
                 name: 'discord',
                 link: 'https://discord.com/users/811216525322616902/'
             },
-		    {
-                name: 'discord server',
-                link: 'https://discord.gg/g7bNB6FQMF'
-            },
+
                     {
-                name: 'v3rmillion',
+                name: 'v3rm',
                 link: 'https://v3rmillion.net/member.php?action=profile&uid=1429565'
             },
+
 		    {
-                name: 'ogusers',
-                link: 'https://ogu.gg/iSoCraze'
-            },	   
-		
+                name: 'roblox',
+                link: 'https://www.roblox.com/users/2742053608/profile'
+            },
+
 		    {
                 name: 'youtube',
                 link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'
             },
 		    {
-                name: 'roblox',
-                link: 'https://www.roblox.com/users/2742053608/profile'
-			   
+                name: 'discord server',
+                link: 'https://discord.gg/g7bNB6FQMF'
             },
+
         ];
-	    
+
         for (var i in links) {
             var link = links[i];
 

@@ -156,7 +156,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
-            writeLine(["Starting... Intializing.", "Trying to connect to <span style='font-size: 14px; color: #7F00FF;'>[craze.wtf]</span>..."], 30, function () {
+            writeLine(["Starting.. Opening... ", "Granting connection to <span style='font-size: 14px; color: #7F00FF;'>[craze.wtf]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;
@@ -165,14 +165,14 @@
 
                 var usernames = ["user", "dude"];
 
-                writeLine(["Authentication Established <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading website...."], 30, 501, function () {
+                writeLine(["Permission granted <span style='font-size: 14px; color: #0f0;'>[success]</span>", "Loading site...."], 30, 501, function () {
 
                     if (app.skippedIntro)
                         return;
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #FFFF00'>glad to have you back</i>"], 30, 500, function () {
+                    writeLine(["<i style='color: #FFFF00'>welcome to craze.wtf</i>"], 30, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 

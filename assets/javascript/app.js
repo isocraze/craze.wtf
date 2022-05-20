@@ -11,7 +11,7 @@ var _app = function () {
     this.brandDescription = [
         "craze#0001 - 811216525322616902", 
         "act broke to stay rich", 
-        "♪ Knucks - Home ♪ ", 
+        "♪ Knucks - Los Pollos Hermanos ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];
 

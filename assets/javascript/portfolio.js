@@ -38,12 +38,7 @@
 		
 		    {
                 name: 'youtube',
-                link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'
-            },
-		    {
-                name: 'roblox',
-                link: 'https://www.roblox.com/users/1057062/profile'
-			   
+                link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'	   
             },
         ]; 
         for (var i in links) {

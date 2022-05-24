@@ -151,7 +151,7 @@
     (function () {
         $.getJSON('https://api.ipgeolocation.io/ipgeo?apiKey=2bdc619693544329841a3196dca3f6c0', function (data) { 
 
-            writeLine(["Starting.. Opening... ", "Granting connection to <span style='font-size: 14px; color: #7F00FF;'>[craze.wtf]</span>..."], 30, function () {
+            writeLine(["Starting.. Opening... ", "Granting connection to <span style='font-size: 14px; color: #FF0000;'>[craze.wtf]</span>..."], 30, function () {
 
                 if (app.skippedIntro)
                 	return;

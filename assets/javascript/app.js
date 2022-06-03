@@ -12,7 +12,7 @@ var _app = function () {
         "craze#0001 - 811216525322616902", 
         "act broke to stay rich", 
         "gustavo fring of discord",
-        "♪ Knucks - Los Pollos Hermanos ♪ ", 
+        "♪ Knucks - Leon The Professional ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];
 

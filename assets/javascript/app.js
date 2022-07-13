@@ -11,8 +11,8 @@ var _app = function () {
     this.brandDescription = [
         "craze#0001 - 811216525322616902", 
         "act broke to stay rich", 
-        "gustavo fring of discord",
-        "♪ Knucks - Leon The Professional ♪ ", 
+        "professional typer",
+        "♪ DC The Don - Worst Day ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];
 

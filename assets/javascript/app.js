@@ -12,7 +12,7 @@ var _app = function () {
         "craze#0001 - 811216525322616902", 
         "act broke to stay rich", 
         "professional typer",
-        "♪ DeeKay - Batman! ♪ ", 
+        "♪ deekay x sadfriendd - hoes on cam! ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];
 

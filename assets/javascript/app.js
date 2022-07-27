@@ -13,7 +13,7 @@ var _app = function () {
         "act broke to stay rich", 
         "professional typer",
         "this world is scam or be scammed",
-        "% craze"
+        "% craze",
         "♪ deekay x sadfriendd - hoes on cam! ♪ ", 
         "craze#0001 - 811216525322616902" ,
     ];

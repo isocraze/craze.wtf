@@ -9,7 +9,7 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "craze#9737 - 848772218460831795", 
+        "craze#0002 - 848772218460831795", 
         "act broke to stay rich", 
         "professional typer",
         "kill or be killed",

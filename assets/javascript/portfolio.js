@@ -21,11 +21,7 @@
 
 		    {
                 name: 'discord',
-                link: 'https://discord.com/users/811216525322616902/'
-            },
-		    {
-                name: 'discord server',
-                link: 'https://discord.gg/g7bNB6FQMF'
+                link: 'https://discord.com/users/848772218460831795/'
             },
                     {
                 name: 'v3rmillion',

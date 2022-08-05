@@ -15,7 +15,7 @@ var _app = function () {
         "kill or be killed",
         "% craze",
         "♪ 1nonly - MINE ♪ ", 
-        "craze#9737 - 848772218460831795" ,
+        "craze#0002 - 848772218460831795" ,
     ];
 
 

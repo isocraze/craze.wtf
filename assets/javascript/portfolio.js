@@ -20,6 +20,11 @@
             },
 
 		    {
+                name: 'solo',
+                link: 'https://solo.to/craze'
+            },
+
+		    {
                 name: 'discord',
                 link: 'https://discord.com/users/848772218460831795/'
             },
@@ -36,6 +41,7 @@
                 name: 'youtube',
                 link: 'https://www.youtube.com/channel/UCcQDVaXO5x2Nek8V1Fcfqeg'	   
             },
+		
         ]; 
         for (var i in links) {
             var link = links[i];
